@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Punto4</string>
+    <string name="primer">Primera cifra</string>
+    <string name="segundo">Segunda cifra</string>
+    <string name="tercero">Escala</string>
+    <string name="cuarto">Tolerancia</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
